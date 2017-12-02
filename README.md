@@ -1,1 +1,2 @@
 # rust-startkit
+rust cargo
